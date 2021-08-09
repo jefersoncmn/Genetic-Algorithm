@@ -4,41 +4,41 @@
         "nome": "Fundamentos De Programação",
         "professor": "Suzan Kelly Borges Piovesan",
         "cargahorariasemanal": 4,
-        "dependecias": []
+        "dependencias": []
     },
     {
         "id": "CC21D",
         "nome": "Introdução A Ciência Da Computação",
         "professor": "Leiliane Pereira De Rezende",
         "cargahorariasemanal": 3,
-        "dependecias": []
+        "dependencias": []
     },
     {
         "id": "FI221E",
         "nome": "Fundamentos De Eletricidade",
         "professor": "Carlos Frederico Charret Brandt",
         "cargahorariasemanal": 2,
-        "dependecias": []
+        "dependencias": []
     },
     {
         "id": "MA221A",
         "nome": "Cálculo Diferencial E Integral 1",
         "professor": "Vitor Alex Alves De Marchi",
         "cargahorariasemanal": 6,
-        "dependecias": []
+        "dependencias": []
     },
     {
         "id": "MA221B",
         "nome": "Geometria Analítica E Álgebra Linear",
         "professor": "Evandro Alves Nakajima",
         "cargahorariasemanal": 6,
-        "dependecias": []
+        "dependencias": []
     },
     {
         "id": "MA221F",
         "nome": "Lógica Matemática",
         "professor": "Davi Marcondes Rocha",
         "cargahorariasemanal": 4,
-        "dependecias": []
+        "dependencias": []
     }
 ]
