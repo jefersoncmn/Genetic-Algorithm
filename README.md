@@ -36,6 +36,7 @@ No projeto será estudado:
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:<br>
 - [Git](https://git-scm.com);<br>
 - [VSCode](https://code.visualstudio.com/)
+- [Python 3.7.0](https://www.python.org/ftp/python/3.7.0/python-3.7.0-amd64.exe)
 
 ### Tecnologias
 
