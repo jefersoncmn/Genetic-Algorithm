@@ -1,5 +1,10 @@
 class Materia:
     horarios = []
+    id = 0 
+    nome = ""
+    professor = ""
+    cargahoraria = 0 
+    dependencias = []
     periodo = 0
 
     def __init__(self, id, nome, professor, cargahoraria, dependencias):
