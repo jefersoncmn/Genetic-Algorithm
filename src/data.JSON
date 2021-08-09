@@ -40,5 +40,138 @@
         "professor": "Davi Marcondes Rocha",
         "cargahorariasemanal": 4,
         "dependencias": []
+    },
+    {
+        "id": "CC22B",
+        "nome": "Circuitos Digitais",
+        "professor": "Leiliane Pereira De Rezende",
+        "cargahorariasemanal": 6,
+        "dependencias": []
+    },
+    {
+        "id": "CC22C",
+        "nome": "Linguagem de Programação Estruturada",
+        "professor": "Franck Carlos Velez Benito",
+        "cargahorariasemanal": 3,
+        "dependencias": []
+    },
+    {
+        "id": "CC22D",
+        "nome": "Fundamentos de Banco de Dados",
+        "professor": "Claudio Jose Biazus",
+        "cargahorariasemanal": 4,
+        "dependencias": []
+    },
+    {
+        "id": "ED222E",
+        "nome": "Comunicação Linguística",
+        "professor": "Vera Lucia Vasilevski Dos Santos Araujo",
+        "cargahorariasemanal": 2,
+        "dependencias": []
+    },
+    {
+        "id": "MA222A",
+        "nome": "Cálculo Diferencial e Integral 2",
+        "professor": "Evandro Alves Nakajima",
+        "cargahorariasemanal": 4,
+        "dependencias": []
+    },
+    {
+        "id": "MA222F",
+        "nome": "Probabilidade e Estatística",
+        "professor": "Vitor Alex Alves De Marchi",
+        "cargahorariasemanal": 4,
+        "dependencias": []
+    },
+    {
+        "id": "CC23B",
+        "nome": "Sistemas Gerenciadores de Banco de Dados",
+        "professor": "Leiliane Pereira De Rezende",
+        "cargahorariasemanal": 4,
+        "dependencias": []
+    },
+    {
+        "id": "CC23C",
+        "nome": "Estrutura de Dados",
+        "professor": "Thiago Franca Naves",
+        "cargahorariasemanal": 4,
+        "dependencias": []
+    },
+    {
+        "id": "CC23D",
+        "nome": "Arquitetura e Organização de Computadores",
+        "professor": "Claudio Jose Biazus",
+        "cargahorariasemanal": 4,
+        "dependencias": []
+    },
+    {
+        "id": "CC23E",
+        "nome": "Programação Orientada a Objetos",
+        "professor": "Anderson Brilhador",
+        "cargahorariasemanal": 4,
+        "dependencias": []
+    },
+    {
+        "id": "CC23F",
+        "nome": "Linguagem de Estruturação e Apresentação de Conteúdos",
+        "professor": "Anderson Brilhador",
+        "cargahorariasemanal": 3,
+        "dependencias": []
+    },
+    {
+        "id": "MA223A",
+        "nome": "Cálculo Numérico",
+        "professor": "Evandro Alves Nakajima",
+        "cargahorariasemanal": 4,
+        "dependencias": []
+    },
+    {
+        "id": "CC24A",
+        "nome": "Linguagem de Programação Objeto Orientada",
+        "professor": "Giuvane Conti",
+        "cargahorariasemanal": 4,
+        "dependencias": []
+    },
+    {
+        "id": "CC24C",
+        "nome": "Pesquisa e Ordenação de Dados",
+        "professor": "Pedro Luiz De Paula Filho",
+        "cargahorariasemanal": 3,
+        "dependencias": []
+    },
+    {
+        "id": "CC24D",
+        "nome": "Engenharia de Requisitos",
+        "professor": "Davi Marcondes Rocha",
+        "cargahorariasemanal": 3,
+        "dependencias": []
+    },
+    {
+        "id": "CC24E",
+        "nome": "Linguagem de Montagem",
+        "professor": "Claudio Jose Biazus",
+        "cargahorariasemanal": 3,
+        "dependencias": []
+    },
+    {
+        "id": "CC24F",
+        "nome": "Comunicação de Dados",
+        "professor": "Giani Carla Ito",
+        "cargahorariasemanal": 4,
+        "dependencias": []
+    },
+    {
+        "id": "CC24G",
+        "nome": "Computação Gráfica",
+        "professor": "Davi Marcondes Rocha",
+        "cargahorariasemanal": 4,
+        "dependencias": []
+    },
+    {
+        "id": "ED224B",
+        "nome": "Metodologia da Pesquisa",
+        "professor": "Vera Lucia Vasilevski Dos Santos Araujo",
+        "cargahorariasemanal": 2,
+        "dependencias": []
     }
 ]
