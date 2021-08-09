@@ -1,7 +1,9 @@
 import pandas as pd
+from criacaoDasMaterias import criacao_das_materias
 from leituraDeArquivo import ler_json, ler_materia_no_json, ler_dado_da_materia_no_json
 
 json_data = ler_json("data.JSON")
 
-ler_dado_da_materia_no_json(json_data, 0, 'id')
+lista_de_materias = criacao_das_materias(json_data)
+
 
