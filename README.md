@@ -38,6 +38,9 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 - [VSCode](https://code.visualstudio.com/)
 - [Python 3.7.0](https://www.python.org/ftp/python/3.7.0/python-3.7.0-amd64.exe)
 
+Instalar pandas:
+``pip install pandas``
+
 ### Tecnologias
 
 As seguintes ferramentas foram usadas na construção do projeto:
