@@ -6,12 +6,9 @@ def ler_json(arq_json):
         return json.load(f)
 
 def ler_materia_no_json(json_data, line):
-    materia = json_data[line]['id']
-    print(materia)
+    materia = json_data[line]
     return materia
 
 def ler_dado_da_materia_no_json(json_data, line, key):
-    dado = json_data[line]['id']
-    print(dado)
+    dado = json_data[line][key]
     return dado
-
