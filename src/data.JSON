@@ -46,14 +46,18 @@
         "nome": "Circuitos Digitais",
         "professor": "Leiliane Pereira De Rezende",
         "cargahorariasemanal": 6,
-        "dependencias": []
+        "dependencias": [
+            "MA221F"
+        ]
     },
     {
         "id": "CC22C",
         "nome": "Linguagem de Programação Estruturada",
         "professor": "Franck Carlos Velez Benito",
         "cargahorariasemanal": 3,
-        "dependencias": []
+        "dependencias": [
+            "CC21C"
+        ]
     },
     {
         "id": "CC22D",
@@ -74,7 +78,9 @@
         "nome": "Cálculo Diferencial e Integral 2",
         "professor": "Evandro Alves Nakajima",
         "cargahorariasemanal": 4,
-        "dependencias": []
+        "dependencias": [
+            "MA221A"
+        ]
     },
     {
         "id": "MA222F",
@@ -88,14 +94,18 @@
         "nome": "Sistemas Gerenciadores de Banco de Dados",
         "professor": "Leiliane Pereira De Rezende",
         "cargahorariasemanal": 4,
-        "dependencias": []
+        "dependencias": [
+            "CC22D"
+        ]
     },
     {
         "id": "CC23C",
         "nome": "Estrutura de Dados",
         "professor": "Thiago Franca Naves",
         "cargahorariasemanal": 4,
-        "dependencias": []
+        "dependencias": [
+            "CC22C"
+        ]
     },
     {
         "id": "CC23D",
@@ -109,7 +119,9 @@
         "nome": "Programação Orientada a Objetos",
         "professor": "Anderson Brilhador",
         "cargahorariasemanal": 4,
-        "dependencias": []
+        "dependencias": [
+            "CC21C"
+        ]
     },
     {
         "id": "CC23F",
@@ -130,14 +142,19 @@
         "nome": "Linguagem de Programação Objeto Orientada",
         "professor": "Giuvane Conti",
         "cargahorariasemanal": 4,
-        "dependencias": []
+        "dependencias": [
+            "CC23B",
+            "CC23E"
+        ]
     },
     {
         "id": "CC24C",
         "nome": "Pesquisa e Ordenação de Dados",
         "professor": "Pedro Luiz De Paula Filho",
         "cargahorariasemanal": 3,
-        "dependencias": []
+        "dependencias": [
+            "CC23C"
+        ]
     },
     {
         "id": "CC24D",
@@ -151,7 +168,10 @@
         "nome": "Linguagem de Montagem",
         "professor": "Claudio Jose Biazus",
         "cargahorariasemanal": 3,
-        "dependencias": []
+        "dependencias": [
+            "CC22C",
+            "CC23D"
+        ]
     },
     {
         "id": "CC24F",
@@ -165,7 +185,9 @@
         "nome": "Computação Gráfica",
         "professor": "Davi Marcondes Rocha",
         "cargahorariasemanal": 4,
-        "dependencias": []
+        "dependencias": [
+            "MA221B"
+        ]
     },
     {
         "id": "ED224B",
