@@ -1,11 +1,10 @@
 class Materia:
     horarios = []
-    id = 0 
     nome = ""
     professor = ""
     cargahoraria = 0 
     dependencias = []
-    
+    punicao = 0
     
     fitness = 0
 
