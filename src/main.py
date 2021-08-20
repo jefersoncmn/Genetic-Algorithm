@@ -3,6 +3,7 @@ from avaliacaoDasGeracoes import procurar_materia_por_horario_e_periodo, verific
 from criacaoDasMaterias import criacao_das_materias
 from criacaoPrimeiraPopulacao import criacao_de_primeira_populacao, gerar_valores
 from leituraDeArquivo import ler_json, ler_materia_no_json, ler_dado_da_materia_no_json
+from metodoDeSelecao import selecao_por_torneio, selecao_por_truncamento
 
 json_data = ler_json("data.JSON")
 
@@ -13,3 +14,7 @@ primeira_populacao = criacao_de_primeira_populacao(lista_de_materias)
 #print(verificar_conflitos_de_horarios_de_professor(primeira_populacao,primeira_populacao[0]))
 
 verificar_conflitos_de_horarios_de_professor_de_todas_materias(primeira_populacao)
+
+#selecionados = selecao_por_torneio(primeira_populacao, 3, 2)
+
+selecionados = selecao_por_truncamento(primeira_populacao, 0.4)
