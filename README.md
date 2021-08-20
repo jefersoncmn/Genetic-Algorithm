@@ -28,7 +28,7 @@ No projeto será estudado:
 
 ### Features
 
-- [ ] Desenvolvimento de uma estrutura de dados
+- [x] Desenvolvimento de uma estrutura de dados
 - [ ] Implentação do algoritmo genético
 
 ### Pré-requisitos
