@@ -10,3 +10,11 @@ def procurar_materia_por_id(lista_de_materias, id):
     for materia in range(25):
         if lista_de_materias[materia].id == id:
             return lista_de_materias[materia]
+
+def verificar_existencia_de_materia_em_periodo(lista_de_materias, materia_procurada, periodo):
+    for materia in range(25):
+        if lista_de_materias[materia].periodo == periodo:
+            if lista_de_materias[materia] == materia_procurada:
+                return True
+    
+    return False
