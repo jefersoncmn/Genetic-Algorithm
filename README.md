@@ -26,11 +26,6 @@ Informações adicionais na Wiki do projeto.
 No projeto será estudado:
 - Algoritmo Genético
 
-### Features
-
-- [x] Desenvolvimento de uma estrutura de dados
-- [ ] Implentação do algoritmo genético
-
 ### Pré-requisitos
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:<br>
