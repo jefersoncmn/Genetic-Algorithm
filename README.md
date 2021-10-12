@@ -6,9 +6,7 @@ Tabela de conteúdos
 <!--ts-->
    * [Sobre](#sobre)
    * [Estudo](#estudo)
-   * [Features](#features)
-      * [Pre Requisitos](#pré-requisitos)
-   * [Tecnologias](#tecnologias)
+   * [Pre Requisitos](#pré-requisitos)
    * [Autores](#autores)
 <!--te-->
 
@@ -29,18 +27,12 @@ No projeto será estudado:
 ### Pré-requisitos
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:<br>
-- [Git](https://git-scm.com);<br>
+- [Git](https://git-scm.com)<br>
 - [VSCode](https://code.visualstudio.com/)
 - [Python 3.7.0](https://www.python.org/ftp/python/3.7.0/python-3.7.0-amd64.exe)
 
 Instalar pandas:
 ``pip install pandas``
-
-### Tecnologias
-
-As seguintes ferramentas foram usadas na construção do projeto:
-
-Feito por Jeferson Carlos Martin 👋🏽 Entre em contato!
 
 <h2 align="center">Autores<h3/>
 
