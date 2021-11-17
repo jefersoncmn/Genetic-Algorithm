@@ -4,42 +4,48 @@
         "nome": "Fundamentos De Programação",
         "professor": "Suzan Kelly Borges Piovesan",
         "cargahorariasemanal": 4,
-        "dependencias": []
+        "dependencias": [],
+        "periodo": 1
     },
     {
         "id": "CC21D",
         "nome": "Introdução A Ciência Da Computação",
         "professor": "Leiliane Pereira De Rezende",
         "cargahorariasemanal": 3,
-        "dependencias": []
+        "dependencias": [],
+        "periodo": 1
     },
     {
         "id": "FI221E",
         "nome": "Fundamentos De Eletricidade",
         "professor": "Carlos Frederico Charret Brandt",
         "cargahorariasemanal": 2,
-        "dependencias": []
+        "dependencias": [],
+        "periodo": 1
     },
     {
         "id": "MA221A",
         "nome": "Cálculo Diferencial E Integral 1",
         "professor": "Vitor Alex Alves De Marchi",
         "cargahorariasemanal": 6,
-        "dependencias": []
+        "dependencias": [],
+        "periodo": 1
     },
     {
         "id": "MA221B",
         "nome": "Geometria Analítica E Álgebra Linear",
         "professor": "Evandro Alves Nakajima",
         "cargahorariasemanal": 6,
-        "dependencias": []
+        "dependencias": [],
+        "periodo": 1
     },
     {
         "id": "MA221F",
         "nome": "Lógica Matemática",
         "professor": "Davi Marcondes Rocha",
         "cargahorariasemanal": 4,
-        "dependencias": []
+        "dependencias": [],
+        "periodo": 1
     },
     {
         "id": "CC22B",
@@ -48,7 +54,8 @@
         "cargahorariasemanal": 6,
         "dependencias": [
             "MA221F"
-        ]
+        ],
+        "periodo": 2
     },
     {
         "id": "CC22C",
@@ -57,21 +64,24 @@
         "cargahorariasemanal": 3,
         "dependencias": [
             "CC21C"
-        ]
+        ],
+        "periodo": 2
     },
     {
         "id": "CC22D",
         "nome": "Fundamentos de Banco de Dados",
         "professor": "Claudio Jose Biazus",
         "cargahorariasemanal": 4,
-        "dependencias": []
+        "dependencias": [],
+        "periodo": 2
     },
     {
         "id": "ED222E",
         "nome": "Comunicação Linguística",
         "professor": "Vera Lucia Vasilevski Dos Santos Araujo",
         "cargahorariasemanal": 2,
-        "dependencias": []
+        "dependencias": [],
+        "periodo": 2
     },
     {
         "id": "MA222A",
@@ -80,14 +90,16 @@
         "cargahorariasemanal": 4,
         "dependencias": [
             "MA221A"
-        ]
+        ],
+        "periodo": 2
     },
     {
         "id": "MA222F",
         "nome": "Probabilidade e Estatística",
         "professor": "Vitor Alex Alves De Marchi",
         "cargahorariasemanal": 4,
-        "dependencias": []
+        "dependencias": [],
+        "periodo": 2
     },
     {
         "id": "CC23B",
@@ -96,7 +108,8 @@
         "cargahorariasemanal": 4,
         "dependencias": [
             "CC22D"
-        ]
+        ],
+        "periodo": 3
     },
     {
         "id": "CC23C",
@@ -105,14 +118,16 @@
         "cargahorariasemanal": 4,
         "dependencias": [
             "CC22C"
-        ]
+        ],
+        "periodo": 3
     },
     {
         "id": "CC23D",
         "nome": "Arquitetura e Organização de Computadores",
         "professor": "Claudio Jose Biazus",
         "cargahorariasemanal": 4,
-        "dependencias": []
+        "dependencias": [],
+        "periodo": 3
     },
     {
         "id": "CC23E",
@@ -121,21 +136,24 @@
         "cargahorariasemanal": 4,
         "dependencias": [
             "CC21C"
-        ]
+        ],
+        "periodo": 3
     },
     {
         "id": "CC23F",
         "nome": "Linguagem de Estruturação e Apresentação de Conteúdos",
         "professor": "Anderson Brilhador",
         "cargahorariasemanal": 3,
-        "dependencias": []
+        "dependencias": [],
+        "periodo": 3
     },
     {
         "id": "MA223A",
         "nome": "Cálculo Numérico",
         "professor": "Evandro Alves Nakajima",
         "cargahorariasemanal": 4,
-        "dependencias": []
+        "dependencias": [],
+        "periodo": 3
     },
     {
         "id": "CC24A",
@@ -145,7 +163,8 @@
         "dependencias": [
             "CC23B",
             "CC23E"
-        ]
+        ],
+        "periodo": 4
     },
     {
         "id": "CC24C",
@@ -154,14 +173,16 @@
         "cargahorariasemanal": 3,
         "dependencias": [
             "CC23C"
-        ]
+        ],
+        "periodo": 4
     },
     {
         "id": "CC24D",
         "nome": "Engenharia de Requisitos",
         "professor": "Davi Marcondes Rocha",
         "cargahorariasemanal": 3,
-        "dependencias": []
+        "dependencias": [],
+        "periodo": 4
     },
     {
         "id": "CC24E",
@@ -171,14 +192,16 @@
         "dependencias": [
             "CC22C",
             "CC23D"
-        ]
+        ],
+        "periodo": 4
     },
     {
         "id": "CC24F",
         "nome": "Comunicação de Dados",
         "professor": "Giani Carla Ito",
         "cargahorariasemanal": 4,
-        "dependencias": []
+        "dependencias": [],
+        "periodo": 4
     },
     {
         "id": "CC24G",
@@ -187,13 +210,15 @@
         "cargahorariasemanal": 4,
         "dependencias": [
             "MA221B"
-        ]
+        ],
+        "periodo": 4
     },
     {
         "id": "ED224B",
         "nome": "Metodologia da Pesquisa",
         "professor": "Vera Lucia Vasilevski Dos Santos Araujo",
         "cargahorariasemanal": 2,
-        "dependencias": []
+        "dependencias": [],
+        "periodo": 4
     }
 ]
