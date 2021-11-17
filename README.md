@@ -10,10 +10,6 @@ Tabela de conteúdos
    * [Autores](#autores)
 <!--te-->
 
-<h4 align="center"> 
-	🚧  Em desenvolvimento...  🚧
-</h4>
-
 ### Sobre
 
 Esse é o segundo trabalho para matéria de Fundamentos de Sistemas Inteligentes. Realizado no ano de 2021.
