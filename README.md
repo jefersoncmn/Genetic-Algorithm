@@ -1,5 +1,5 @@
 <h1 align="center">Algoritmo Genético</h1>
-<p align="center">Sistema para organizar grade de matérias usando algoritmo genético</p>
+<p align="center">Sistema de organização de grade de matérias usando algoritmo genético</p>
 
 Tabela de conteúdos
 =================
