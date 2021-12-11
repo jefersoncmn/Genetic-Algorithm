@@ -18,7 +18,8 @@ Informações adicionais na Wiki do projeto.
 ### Estudo
 
 No projeto será estudado:
-- Algoritmo Genético
+- Python
+- Algoritmos Genéticos
 
 ### Pré-requisitos
 
